@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hello, I'm <a target="_blank">Caroline</a>!
 
 - 🔭 I’m currently working on Development Intern 
 - 🌱 I’m currently learning Amazon Web Services
