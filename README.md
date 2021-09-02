@@ -6,7 +6,6 @@
 <br />
 <br />
 
-
 - 🔭 I’m currently working on Development Intern 
 - 🌱 I’m currently learning Amazon Web Services
 - 💬 Ask me about Development Back-end
