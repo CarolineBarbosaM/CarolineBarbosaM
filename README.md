@@ -1,6 +1,6 @@
 ## Hey, I'm <a target="_blank">Caroline</a>!
 
-<a href="https://www.linkedin.com/in/caroline-martins-42aaba107/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/caroline-martins-42aaba107/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/>
   
 <br />
 <br />
