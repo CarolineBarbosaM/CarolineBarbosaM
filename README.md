@@ -22,7 +22,6 @@
 <a href="https://nodejs.org/pt-br/docs/" target="_blank"><img align="left" alt="NODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://www.php.net/docs.php" target="_blank"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
 <a href="https://laravel.com/docs/8.x/readme" target="_blank"><img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /></a>
-  <a href="https://laravel.com/docs/8.x/readme" target="_blank"><img align="left" alt="Nestjs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png" /></a>
 
 <br />
 <br />
