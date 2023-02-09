@@ -6,7 +6,7 @@
 <br/>
 
 - 🔭 I’m currently working on Back-end Development 
-- 🌱 I’m currently learning Amazon Web Services
+- 🌱 I’m currently learning solution architecture
 - 💬 Ask me about Development Back-end
 - 📫 How to reach me: carolmartins16@outlook.com
 - 😄 Pronouns: Carol
