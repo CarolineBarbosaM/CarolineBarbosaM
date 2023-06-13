@@ -5,8 +5,8 @@
 <br />
 <br/>
 
-- 🔭 Atualmente estou trabalhando em Desenvolvimento Back-end 
-- 🌱 Atualmente estou aprendendo arquitetura de solução
+- 🔭 Trabalhando em Desenvolvimento Back-end 
+- 🌱 Estou aprendendo arquitetura de solução
 - 💬 Pergunte-me sobre Desenvolvimento Back-end
 - 📫 Como me contatar: carolmartins16@outlook.com
 - 😄 Pronomes: Carol
