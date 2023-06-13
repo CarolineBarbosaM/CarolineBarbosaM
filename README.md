@@ -16,7 +16,7 @@
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
-<a href="https://laravel.com/docs/8.x/readme" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/python.png" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Python" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png" /></a>
 <a href="https://nodejs.org/pt-br/docs/" target="_blank"><img align="left" alt="NODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://www.php.net/docs.php" target="_blank"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
 <a href="https://laravel.com/docs/8.x/readme" target="_blank"><img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /></a>
