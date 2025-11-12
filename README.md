@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Caroline Martins!
 
-💻 **Software Engineer | Back-end Specialist | Solution Architecture Enthusiast | Project Manager**
+💻 **Software Engineer | Back-end Developer | Solution Architecture Enthusiast | Project Manager**
 
 Atuo como **Engenheira de Software** com foco em **back-end**, formada em **Sistemas de Informação** e em especialização em **Gestão de Projetos**.  
 Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas de engenharia.
