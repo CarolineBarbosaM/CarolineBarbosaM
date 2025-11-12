@@ -62,7 +62,7 @@ Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas 
 ### 📂 **Projetos em destaque**
 | Projeto | Stack | Descrição |
 |----------|--------|-----------|
-| 🧭 [connect-api](https://github.com/CarolineBarbosaM/connect-api) | NestJS, PostgreSQL, BullMQ | API modular com filas, versionamento e mensageria |
+| 🧭 [flow-api](https://github.com/CarolineBarbosaM/connect-api) | NestJS, PostgreSQL, BullMQ | API modular com filas, versionamento e mensageria |
 | 🤖 [whatsapp-bot](https://github.com/CarolineBarbosaM/whatsapp-bot) | Node.js, MongoDB, Cloud API | Bot para atendimento automatizado via WhatsApp |
 | 🗓️ [scheduler-service](https://github.com/CarolineBarbosaM/scheduler-service) | Java, Spring Boot | Sistema de agendamento com notificações automáticas |
 | 💳 [subscription-service](https://github.com/CarolineBarbosaM/subscription-service) | Laravel, MySQL | Serviço de pagamentos e planos recorrentes |
