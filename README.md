@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Caroline Martins!
 
-💻 **Software Engineer | Back-end Specialist | Solution Architecture Enthusiast**
+💻 **Software Engineer | Back-end Specialist | Solution Architecture Enthusiast | Project Manager**
 
-Atuo como **Engenheira de Software** com foco em **back-end**, formada em **Sistemas de Informação** e em especialização em **Arquitetura de Soluções**.  
+Atuo como **Engenheira de Software** com foco em **back-end**, formada em **Sistemas de Informação** e em especialização em **Gestão de Projetos**.  
 Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas de engenharia.
 
 ---
 
 ### 🚀 **Sobre mim**
 - 🧩 Atualmente trabalhando com **Desenvolvimento Back-end**
-- 🧠 Estudando **Arquitetura de Soluções** e **Sistemas Escaláveis**
+- 🧠 Estudando **Gestão de Projetos** e **Sistemas Escaláveis**
 - 💬 Pergunte-me sobre **NestJS, Java, PHP, filas (BullMQ, RabbitMQ) e bancos relacionais**
 - ✉️ Contato: [carolmartins16@outlook.com](mailto:carolmartins16@outlook.com)
 - 😄 Pronomes: **Carol**
@@ -63,6 +63,6 @@ Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas 
 ---
 
 ### ✨ **Frase que me representa**
-> “Grandes sistemas não são escritos de uma vez. Eles são **projetados, refatorados e aprimorados continuamente**.”  
+> A única maneira de fazer algo excelente é amar o que você faz. **-Steve Jobs**.”  
 
 ---
