@@ -8,11 +8,11 @@ Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas 
 ---
 
 ### 🚀 **Sobre mim**
-- 🧩 Atualmente trabalhando com **Desenvolvimento Back-end**
-- 🧠 Estudando **Gestão de Projetos** e **Sistemas Escaláveis**
+- 🧩 Atualmente trabalhando com **Desenvolvimento Full-stack**
+- 🧠 Formação **Gestão de Projetos** e **Sistemas Escaláveis**
 - 💬 Pergunte-me sobre **NestJS, Java, PHP, filas (BullMQ, RabbitMQ) e bancos relacionais**
 - ✉️ Contato: [carolmartins16@outlook.com](mailto:carolmartins16@outlook.com)
-- 😄 Pronomes: **Carol**
+- 😄 Pronomes: **Ela / Dela**
 - ⚡ Curiosidade: fã de *O Senhor dos Anéis* 🧙‍♀️
 
 ---
@@ -62,18 +62,8 @@ Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas 
 ### 📂 **Projetos em destaque**
 | Projeto | Stack | Descrição |
 |----------|--------|-----------|
-| 🧭 [flow-api](https://github.com/CarolineBarbosaM/connect-api) | NestJS, PostgreSQL, BullMQ | API modular com filas, versionamento e mensageria |
-| 🤖 [whatsapp-bot](https://github.com/CarolineBarbosaM/whatsapp-bot) | Node.js, MongoDB, Cloud API | Bot para atendimento automatizado via WhatsApp |
-| 🗓️ [scheduler-service](https://github.com/CarolineBarbosaM/scheduler-service) | Java, Spring Boot | Sistema de agendamento com notificações automáticas |
-| 💳 [subscription-service](https://github.com/CarolineBarbosaM/subscription-service) | Laravel, MySQL | Serviço de pagamentos e planos recorrentes |
+| 🧭 [identity-platform](https://github.com/CarolineBarbosaM/identity-platform) | NestJS, PostgreSQL, Redis | Authentication Platform |
 
----
-
-### 📈 **Estatísticas**
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolineBarbosaM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBarbosaM&layout=compact&theme=radical)
 
 </div>
 
