@@ -62,7 +62,8 @@ Apaixonada por sistemas distribuídos, mensageria, performance e boas práticas 
 ### 📂 **Projetos em destaque**
 | Projeto | Stack | Descrição |
 |----------|--------|-----------|
-| 🧭 [identity-platform](https://github.com/CarolineBarbosaM/identity-platform) | NestJS, PostgreSQL, Redis | Authentication Platform |
+|     [identity-platform](https://github.com/CarolineBarbosaM/identity-platform) | NestJS, PostgreSQL, Redis | Authentication Platform |
+      [payflow-api](https://github.com/CarolineBarbosaM/payflow-api) | Laravel, RabbitMQ, OpenTelemetry | Payment lifecycle |
 
 
 </div>
